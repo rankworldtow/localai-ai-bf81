@@ -1,4 +1,4 @@
-# 
+# Oficial LocalAI fluxo de trabalho. Com sistema de plugins e agentes colaborativos — otimizado para máximo desempenho e eficiência.
 
 
 
